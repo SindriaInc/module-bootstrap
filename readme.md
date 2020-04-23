@@ -19,8 +19,9 @@ Custom magento 2 module bootstrap.
 
 ### Screenshots
 
-
+#### composer.json
 ![composer](https://raw.githubusercontent.com/SindriaInc/module-bootstrap/master/docs/screenshots/composer.png)
 
 
+#### composer require
 ![require](https://raw.githubusercontent.com/SindriaInc/module-bootstrap/master/docs/screenshots/require.png)
