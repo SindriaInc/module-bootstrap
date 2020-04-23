@@ -16,3 +16,4 @@ Custom magento 2 module bootstrap.
 
 - Run setup upgrade: `php bin/magento setup:upgrade`
 
+![composer](https://raw.githubusercontent.com/SindriaInc/module-bootstrap/master/docs/screenshots/composer.png)
