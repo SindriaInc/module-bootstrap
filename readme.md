@@ -15,3 +15,4 @@ Custom magento 2 module bootstrap.
 - Require your custom module: `composer require sindria/module-bootstrap:@dev` 
 
 - Run setup upgrade: `php bin/magento setup:upgrade`
+
