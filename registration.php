@@ -1,7 +1,7 @@
 <?php
 /**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
+ * Copyright © Sindria, Inc. All rights reserved.
+ * See LICENSE for license details.
  */
 
 use \Magento\Framework\Component\ComponentRegistrar;
